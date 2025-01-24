@@ -42,8 +42,8 @@ de linguagens de programação, ux/ui design dentre outras coisas.
 
 > Seção de estudos sobre linguagens e tecnologias.
 
-- [HTML](#) 🟡
-- [CSS](#) 🟡
+- [HTML](#) 🟢
+- [CSS](#) 🟢
 - [JavaScript](#) 🟡
 - [TypeScript](#) 🟡
 
